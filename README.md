@@ -22,6 +22,6 @@ docker compose up
 
 ### port番号
 `localhost:3000`
-[![Image from Gyazo](https://i.gyazo.com/ce1c448db4a257964bd6dfb8bba9ac20.png)](https://gyazo.com/ce1c448db4a257964bd6dfb8bba9ac20)
+<img width="959" alt="スクリーンショット 2024-01-21 16 11 19" src="https://github.com/iijima-naoya-45b/React.js/assets/134466566/4346e20c-9e4a-411b-860c-4b8c4f80c510">
 `localhost:3001`
 [![Image from Gyazo](https://i.gyazo.com/bdc97dc8d2464ffeb41786262b66d640.png)](https://gyazo.com/bdc97dc8d2464ffeb41786262b66d640)
