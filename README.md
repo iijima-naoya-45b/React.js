@@ -9,6 +9,11 @@
 ### db作成
 `rails db:create`
 
+# ここで、失敗する場合は、config/database.ymlの以下を修正。
+
+18行目:
+ host: db ←ここをdbと打ち直して再実行。
+
 ### node_modulesのinstall
 `docker compose run front npm install`
 
